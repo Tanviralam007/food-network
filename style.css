@@ -1,0 +1,106 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.color-orange {
+    color: plum;
+}
+
+.gray {
+    color: grey;
+}
+
+section {
+    display: flex;
+}
+
+h3 {
+    font-size: 16px;
+    padding: 10px;
+}
+
+.link-button {
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(rgb(204, 178, 131), tomato);
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    border-radius: 15px;
+
+}
+
+.part-1 {
+    width: 50%;
+    font-size: 30px;
+    padding: 20px;
+}
+
+.part-1 img {
+    width: 80%;
+    padding: 100px;
+}
+
+.part-1.sub {
+    font-size: 20px;
+    width: 50%;
+    padding-left: 50px;
+}
+
+.part-1.sub p {
+    padding: 5%;
+}
+
+
+.im img {
+    width: 94%;
+    padding: 10px;
+}
+
+.im {
+    width: 80%;
+    margin: 40px;
+    box-shadow: 5px 5px 30px rgb(193, 191, 191);
+    border-radius: 20px;
+    padding: 10px;
+}
+
+footer {
+    display: flex;
+    margin: 10%;
+    border: 1px solid whitesmoke;
+    border-radius: 12px;
+    box-shadow: 5px 5px 30px rgb(222, 222, 222);
+}
+
+.box-1 {
+    flex: 1;
+    padding-left: 20%;
+}
+
+.box-2 {
+    flex: 1;
+}
+
+.box-3 {
+    flex: 1;
+}
+
+.final {
+    text-align: center;
+    background-color: black;
+    padding-bottom: 50px;
+}
+
+.food-color {
+    color: orange;
+}
+
+.net-color {
+    color: grey;
+}
+
+#color {
+    color: whitesmoke;
+}
