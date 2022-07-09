@@ -1,5 +1,6 @@
 body {
     font-family: 'Poppins', sans-serif;
+    margin: 0px;
 }
 
 .color-orange {
@@ -35,11 +36,23 @@ h3 {
     width: 50%;
     font-size: 30px;
     padding: 20px;
+    background-image: url(./images/shapes/Frame\ 58.jpg);
+    background-repeat: no-repeat;
 }
 
 .part-1 img {
     width: 80%;
     padding: 100px;
+}
+
+.back-2 {
+    background-image: url(./images/shapes/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+}
+
+.part-2 img {
+    width: 40%;
+    padding-left: 20%;
 }
 
 .part-1.sub {
@@ -52,6 +65,9 @@ h3 {
     padding: 5%;
 }
 
+#alignment {
+    text-align: center;
+}
 
 .im img {
     width: 94%;
@@ -64,6 +80,10 @@ h3 {
     box-shadow: 5px 5px 30px rgb(193, 191, 191);
     border-radius: 20px;
     padding: 10px;
+}
+
+.color-black {
+    background-color: azure;
 }
 
 footer {
